@@ -1,0 +1,154 @@
+body {
+    background-color: #EEEEEE;
+    font-family: 'Inria Sans', sans-serif;
+    color: #485665;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    width: 800px;
+    margin: 0px auto;
+    min-height: 100vh;
+}
+
+header {
+    color: #485665;
+    width: 100%;
+    font-size: 25px;
+}
+
+a {
+    color: #485665;
+}
+nav > a {
+    margin: 0px 0px 0px 20px;
+}
+
+hero {
+    margin: 50px 0px;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title-block {
+    margin: 80px 0px;
+}
+
+main {
+    flex: 1;
+    width: 100%;
+}
+
+#md-img {
+    width: 150px;
+}
+
+h1 {
+    font-size: 72px;
+    margin: -28px 0px 0px 0px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0px 0px -18px 0px;
+}
+
+.content-row {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 0px 20px;
+}
+
+.column {
+    display: flex;
+    flex-flow: column;
+    align-items: left;
+    justify-content:  flex-start;
+    flex: 1;
+}
+
+.row {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tile {
+    background-color: #D2E8EE;
+    flex: 1;
+    padding: 0px 20px 5px 20px;
+    border-radius: 20px;
+}
+
+.text > p {
+    margin: 0px 0px 10px 0px;
+}
+
+footer{
+    width: 100%;
+    margin: 100px 0px 0px 0px;
+    font-weight: bold;
+}
+
+.footer-items-container > a {
+    margin: 15px 0px;
+}
+
+
+@media (max-width: 840px) {
+    body {
+        width: 90%;
+        margin: 0px 20px;
+    }
+
+    #md-img {
+        width: 360px;
+    }
+
+    hero {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+    }
+
+    hero > div > h1 {
+        font-size: 42px;
+    }
+    
+    hero > div > h2 {
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .content-row {
+        flex-direction: column;
+    }
+
+    .content-row > .content-row {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .tile > .content-row {
+        flex-direction: row;
+    }
+
+    .tile {
+        margin: 10px 0px;
+}
+
+@media (max-width: 415px) {
+    #md-img {
+        width: 100%;
+    }
+
+    body {
+        width: 360px;
+        margin: 0px 20px;
+    }
+}
