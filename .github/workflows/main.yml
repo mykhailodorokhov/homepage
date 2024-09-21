@@ -20,4 +20,4 @@ jobs:
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
-        server-dir: /htdocs/ # Adjust this to the folder where your hosting files go
+        server-dir: /htdocs/
