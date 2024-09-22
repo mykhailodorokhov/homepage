@@ -19,8 +19,9 @@ header {
 a {
     color: #485665;
 }
-nav > a {
-    margin: 0px 0px 0px 20px;
+
+.nav-link {
+    margin: 20px 0px;
 }
 
 hero {
@@ -77,6 +78,7 @@ h2 {
     flex-flow: row;
     align-items: center;
     justify-content: space-between;
+    gap: 0px 20px;
 }
 
 .tile {
