@@ -18,8 +18,8 @@ jobs:
       with:
         host: mykhailodorokhov.ee
         username: ${{ secrets.SSH_USERNAME }}
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        password: $({ secrets.SSH_PASSWORD })
         port: 1022
         script: |
-          cd /htdocs
+          cd htdocs
           git pull origin main
