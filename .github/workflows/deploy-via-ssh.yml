@@ -17,11 +17,10 @@ jobs:
         uses: webfactory/ssh-agent@v0.5.4
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-          port: 1022
 
       - name: Run git pull
         run: |
-          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee << 'EOF'
+          ssh -o -p 1022 StrictHostKeyChecking=no ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee << 'EOF'
             cd htdocs
             git pull
           EOF
