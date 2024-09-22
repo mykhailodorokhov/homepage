@@ -1,4 +1,4 @@
-name: Deploy via SSH
+name: 🚀 Deploy via SSH
 
 on:
   push:
@@ -10,16 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Deploy to SSH Server
-      uses: appleboy/ssh-action@v0.1.2
-      with:
-        host: mykhailodorokhov.ee
-        username: ${{ secrets.SSH_USERNAME }}
-        password: $({ secrets.SSH_PASSWORD })
-        port: 1022
-        script: |
-          cd htdocs
-          git pull origin main
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.5.4
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 1022
+
+      - name: Run git pull
+        run: |
+          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@mykhailodorokhov.ee << 'EOF'
+            cd htdocs
+            git pull
+          EOF
