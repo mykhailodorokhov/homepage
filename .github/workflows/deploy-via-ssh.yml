@@ -21,7 +21,7 @@ jobs:
 
       - name: Run git pull
         run: |
-          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@mykhailodorokhov.ee << 'EOF'
+          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee << 'EOF'
             cd htdocs
             git pull
           EOF
