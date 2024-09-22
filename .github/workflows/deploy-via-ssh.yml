@@ -19,6 +19,7 @@ jobs:
           Host staging
             HostName $SSH_HOST
             User $SSH_USER
+            Port 1022
             IdentityFile ~/.ssh/id_rsa
             StrictHostKeyChecking no
           END
