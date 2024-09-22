@@ -28,5 +28,9 @@ jobs:
           SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           SSH_HOST: mykhailodorokhov.ee
 
+      - name: Test SSH connection
+        run: |
+          ssh -v -o StrictHostKeyChecking=no -p 1022 ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee
+                
       - name: Check out the source
         run: ssh staging 'cd htdocs && git pull'
