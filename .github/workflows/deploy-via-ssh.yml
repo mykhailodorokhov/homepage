@@ -18,9 +18,13 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
+      - name: Test SSH connection
+        run: |
+          ssh -v -o StrictHostKeyChecking=no -p 1022 ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee
+
       - name: Run git pull
         run: |
-          ssh -o StrictHostKeyChecking=no -p 1022 ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee << 'EOF'
+          ssh -v -o StrictHostKeyChecking=no -p 1022 ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee << 'EOF'
             cd htdocs
             git pull
           EOF
