@@ -36,4 +36,4 @@ jobs:
         run: ssh staging 'cd git/homepage && git pull && npm install && npm run build'
 
       - name: Install dependencies & run
-        run: ssh staging 'cp -r homepage/dist/* ../htdocs/'
+        run: ssh staging 'cd / && cp -r homepage/dist/* htdocs/'
