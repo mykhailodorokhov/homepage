@@ -1,9 +1,9 @@
 name: 🚀 Deploy via SSH
 
-# on:
-#   push:
-#     branches:
-#       - main
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -33,7 +33,7 @@ jobs:
           ssh -v -o StrictHostKeyChecking=no -p 1022 ${{ secrets.SSH_USERNAME }}@mykhailodorokhov.ee
                 
       - name: pull, install and build
-        run: ssh staging 'cd git && git pull & npm install && npm run build'
+        run: ssh staging 'cd git/homepage && git pull & npm install && npm run build'
 
       - name: Install dependencies & run
         run: ssh staging 'cp -r homepage/dist/* ../htdocs/'
