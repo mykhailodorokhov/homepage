@@ -13,11 +13,11 @@ function CV() {
                 <div className="tile">
                     <h3>📝 About</h3>
                     <div className="content-row">
-                        <div className="column text">
+                        <div className="column">
                             <p><b>10+ years</b><br />in IT</p>
                             <p><b>3+ years</b><br />in management</p>
                         </div>
-                        <div className="column text">
+                        <div className="column">
                             <p><b>5+ years</b><br />in education</p>
                         </div>
                     </div>
@@ -25,11 +25,11 @@ function CV() {
                 <div className="tile">
                     <h3>💬 Languages</h3>
                     <div className="content-row">
-                        <div className="column text">
+                        <div className="column">
                             <p><b>C1</b><br />English</p>
                             <p><b>B1</b><br />Estonian</p>
                         </div>
-                        <div className="column text">
+                        <div className="column">
                             <p><b>NL</b><br />Ukrainian</p>
                             <p><b>NL</b><br />Russian</p>
                         </div>
@@ -40,13 +40,13 @@ function CV() {
             <div className="content-row">
                 <h3>🎓 Education</h3>
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             MSc Software Engineering '24 <i>(cum laude)</i><br />
                             <b>University of Tartu</b>
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             GPA: 4.65/5<br />
                             Thesis: “Python Programming Module for Non-Specialized Schools as an Introduction to IT”
@@ -54,13 +54,13 @@ function CV() {
                     </div>
                 </div>
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             BSc Computer Science '14 <i>(cum laude)</i><br />
                             <b>Simon Kuznets Kharkiv National University of Economics</b>
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             GPA: around 94/100<br />
                             Thesis: “Market Players Interaction Modelling”
@@ -73,14 +73,14 @@ function CV() {
                 <h3>👨🏻‍💻 Work experience</h3>
 
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             Senior Engineering L&D Lead<br />
                             <b>Pipedrive</b><br />
                             2019 - ...
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             1. Software engineering internships manager:<br />
                             - University of Tartu Industrial Master's Internship<br />
@@ -96,14 +96,14 @@ function CV() {
                 </div>
 
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             Teaching Assistant (contractor)<br />
                             <b>University of Tartu</b><br />
                             2016 - 2019
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             Conducting practical sessions for:<br />
                             MTAT.03.295 Agile Software Development<br />
@@ -114,7 +114,7 @@ function CV() {
                 </div>
 
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             Software Engineer (contractor)<br />
                             <b>University of Tartu</b><br />
@@ -127,14 +127,14 @@ function CV() {
                 </div>
 
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             Junior Software Engineer<br />
                             <b>Sigma Software</b><br />
                             2014 - 2015
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>Developing an ERP system for a Swedish client.</p>
                     </div>
                 </div>
@@ -144,14 +144,14 @@ function CV() {
                 <h3>❤️‍🩹 Volunteering</h3>
 
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             IT-module teacher<br />
                             <b>Tartu Annelinna Gümnaasium</b><br />
                             2020 - 2025
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             Conducting a custom-developed 105-hour IT module to G2-grade students, teaching Python programming,
                             basic product and project management, IT industry overview, and study pathways.<br />
@@ -162,14 +162,14 @@ function CV() {
                 </div>
 
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             <a href="https://www.codesters.club/" target="_blank" rel="noopener noreferrer">Codesters.club</a> mentor<br />
                             <b>Tartu Jaan Poska Gümnaasium</b><br />
                             2022 - 2025
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             Teaching "Digital Product Development" to high-school students, covering business analysis, programming, and design.<br />
                             (<a href="https://www.youtube.com/watch?v=DwPFcr0ZQKw" target="_blank" rel="noopener noreferrer">Üks päev Codester suunal | YouTube</a>)
@@ -181,7 +181,7 @@ function CV() {
             <div className="content-row">
                 <h3>📺 Mykhailo in media</h3>
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             <a href="https://tasku.delfi.ee/podcast/b9a89e00-f4ca-11ed-99d3-977a6b37de87/?audio=5767e0c9-6529-4946-8980-ae47300bbf23" target="_blank" rel="noopener noreferrer">
                                 Як побудувати успішну карʼєру в ІТ?
@@ -190,7 +190,7 @@ function CV() {
                             19.10.2023
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             <a href="https://tartu.postimees.ee/7398870/valistudengina-eestisse-tulnud-it-mees-opetab-gumnasiste-koodi-kirjutama" target="_blank" rel="noopener noreferrer">
                                 Välistudengina Eestisse tulnud IT-mees õpetab gümnasiste koodi kirjutama
@@ -201,7 +201,7 @@ function CV() {
                     </div>
                 </div>
                 <div className="content-row">
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             <a href="https://medium.com/pipedrive-engineering/pipedrives-new-buddy-program-5608d66d90bf" target="_blank" rel="noopener noreferrer">
                                 Pipedrive’s new buddy program
@@ -210,7 +210,7 @@ function CV() {
                             09.11.2021
                         </p>
                     </div>
-                    <div className="column text">
+                    <div className="column">
                         <p>
                             <a href="https://jupiterpluss.err.ee/1608348899/kofe" target="_blank" rel="noopener noreferrer">
                                 Кофе+, 4:25
