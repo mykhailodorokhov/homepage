@@ -84,7 +84,7 @@ function CV() {
                         <p>
                             1. Software engineering internships manager:<br />
                             - University of Tartu Industrial Master's Internship<br />
-                            - School of Code, in-house entry-level talent development program<br />
+                            - Software Engineering Internship (School of Code), in-house entry-level talent development program<br />
                             (<a href="https://medium.com/pipedrive-engineering/pipedrives-school-of-code-from-bits-and-bytes-to-algorithm-avenue-a191d0912cc4" target="_blank" rel="noopener noreferrer">Medium article</a>;{" "}
                             <a href="https://digipro.geenius.ee/rubriik/uudis/pipedrive-otsib-taaskordsesse-praktika-ja-mentorlusprogrammi-tulevasi-tehnoloogiatalente/" target="_blank" rel="noopener noreferrer">Geenius article</a>)<br />
                             2. Engineering Onboarding & Buddy program<br />
