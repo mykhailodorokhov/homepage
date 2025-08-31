@@ -25,9 +25,19 @@ function Home() {
             <br />
             <b>Pipedrive</b>
           </p>
+          <p>
+            Junior Research Fellow
+            <br />
+            <b>University of Tartu</b>
+          </p>
         </div>
         <div className="tile">
           <h3>🎓 Education</h3>
+          <p>
+            PhD Mathematics and Computer Science '29
+            <br />
+            <b>University of Tartu</b>
+          </p>
           <p>
             MSc Software Engineering '24 <i>(cum laude)</i>
             <br />

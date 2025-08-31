@@ -42,6 +42,19 @@ function CV() {
                 <div className="content-row">
                     <div className="column">
                         <p>
+                            PhD Mathematics and Computer Science '29 <i>(ongoing)</i><br />
+                            <b>University of Tartu</b>
+                        </p>
+                    </div>
+                    <div className="column">
+                        <p>
+                            Research is focused on using AI (both generative AI, as well as classic Machine Learning) to provide a personalised teaching assistant experience for computer science subjects and MOOCs
+                        </p>
+                    </div>
+                </div>
+                <div className="content-row">
+                    <div className="column">
+                        <p>
                             MSc Software Engineering '24 <i>(cum laude)</i><br />
                             <b>University of Tartu</b>
                         </p>
@@ -91,6 +104,21 @@ function CV() {
                             (<a href="https://medium.com/pipedrive-engineering/pipedrives-new-buddy-program-5608d66d90bf" target="_blank" rel="noopener noreferrer">Medium article</a>)<br />
                             3. R&D meetups co-organiser & sometimes host<br />
                             (<a href="https://www.youtube.com/live/E_PdsV9WsMM?t=207s" target="_blank" rel="noopener noreferrer">Tartu Engineering Meetup</a>)
+                        </p>
+                    </div>
+                </div>
+
+                <div className="content-row">
+                    <div className="column">
+                        <p>
+                            Junior Research Fellow<br />
+                            <b>University of Tartu</b><br />
+                            2025 - ...
+                        </p>
+                    </div>
+                    <div className="column">
+                        <p>
+                            Working on my PhD research in Informatics Didactics research group.
                         </p>
                     </div>
                 </div>
