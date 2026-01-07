@@ -76,19 +76,25 @@ function Home() {
             also worked some time as a Teaching Assistant.
           </p>
           <p>
-            Currently, I work at Pipedrive, where I manage software engineering
-            internships and collaboration with academia, oversee engineering
-            onboarding, and assist with R&D meetups.
+            Currently, I work at Pipedrive, where I am engaged in the User Quality 
+            of Life workgroup, coordinating cross-team collaboration on end-to-end 
+            use cases to improve overall user experience and satisfaction. I also 
+            manage Early Careers area: software engineering internships and 
+            collaboration with academia, engineering onboarding, and I assist 
+            Employer Branding team with organising events and meetups.
           </p>
           <p>
-            I also teach a custom-developed IT course at Tartu Annelinna
-            Gümnaasium and volunteer as a Codesters.club mentor at Tartu Jaan
-            Poska Gümnaasium. I enjoy hiking and biking and am a big electric
-            car enthusiast.
+            I also do my PhD at the University of Tartu, exploring and building 
+            a personalised AI teaching assistant for Computer Science courses. 
+            I have volunteered for many years as a Codesters.club mentor at Tartu 
+            Jaan Poska Gümnaasium, teaching business analysis, design, and programming, 
+            and as a teacher at Tartu Annelinna Gümnaasium, where I taught 
+            a programming course that I authored.
           </p>
           <p>
-            If you have a great idea you'd like to discuss over a cup of tea -
-            feel free to drop me a message!
+            I enjoy badminton (feel free to challenge me!), biking and hiking, and am a 
+            big electric car enthusiast. If you have a great idea you'd like to discuss 
+            over a cup of tea - feel free to drop me a message!
           </p>
         </div>
       </div>
