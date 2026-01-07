@@ -42,7 +42,7 @@ function CV() {
                 <div className="content-row">
                     <div className="column">
                         <p>
-                            PhD Mathematics and Computer Science '29 <i>(ongoing)</i><br />
+                            PhD Candidate in Computer Science<br />
                             <b>University of Tartu</b>
                         </p>
                     </div>
