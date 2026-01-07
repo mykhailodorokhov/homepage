@@ -34,7 +34,7 @@ function Home() {
         <div className="tile">
           <h3>🎓 Education</h3>
           <p>
-            PhD Mathematics and Computer Science '29
+            PhD Candidate in Computer Science
             <br />
             <b>University of Tartu</b>
           </p>
@@ -80,7 +80,7 @@ function Home() {
             of Life workgroup, coordinating cross-team collaboration on end-to-end 
             use cases to improve overall user experience and satisfaction. I also 
             manage Early Careers area: software engineering internships and 
-            collaboration with academia, engineering onboarding, and I assist 
+            collaboration with academia, engineering onboarding, and assist 
             Employer Branding team with organising events and meetups.
           </p>
           <p>
