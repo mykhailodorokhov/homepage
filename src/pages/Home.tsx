@@ -1,4 +1,4 @@
-import mykhailoImage from '../assets/mykhailodorokhov3.png';
+import mykhailoImage from '../assets/mykhailodorokhov.jpg';
 
 function Home() {
   return (
