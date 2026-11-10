@@ -13,7 +13,7 @@ function Home() {
         </div>
         <div>
           <h1>Mykhailo Dorokhov</h1>
-          <h2>Engineering Management; Project Management; Education;</h2>
+          <h2>Product Engineering Leader &amp; Applied Researcher</h2>
         </div>
       </section>
 
@@ -23,10 +23,14 @@ function Home() {
           <p>
             Senior Engineering L&D Lead
             <br />
+            <i>(Early Careers Engineering Manager;</i>
+            <br />
+            <i>AI enablement)</i>
+            <br />
             <b>Pipedrive</b>
           </p>
           <p>
-            Junior Research Fellow
+            PhD Candidate, Research Fellow
             <br />
             <b>University of Tartu</b>
           </p>
@@ -76,23 +80,33 @@ function Home() {
             also worked some time as a Teaching Assistant.
           </p>
           <p>
-            Currently, I work at Pipedrive, where I am engaged in the User Quality 
-            of Life workgroup, coordinating cross-team collaboration on end-to-end 
-            use cases to improve overall user experience and satisfaction. I also 
-            manage Early Careers area: software engineering internships and 
-            collaboration with academia, engineering onboarding, and assist 
-            Employer Branding team with organising events and meetups.
+            These days I would describe myself as an engineering leader with a
+            product mindset who ended up building systems and processes that
+            help product teams: first as an engineer, then as an engineering
+            manager, now with AI agents. I work in between industry and
+            academia, research and production, people and code.
           </p>
           <p>
-            I also do my PhD at the University of Tartu, exploring and building 
-            a personalised AI teaching assistant for Computer Science courses. 
-            I have volunteered for many years as a Codesters.club mentor at Tartu 
-            Jaan Poska Gümnaasium, teaching business analysis, design, and programming, 
-            and as a teacher at Tartu Annelinna Gümnaasium, where I taught 
-            a programming course that I authored.
+            At Pipedrive, reporting directly to C-level executives, I led the
+            Customer Quality of Life and Agentic PDLC initiatives, part of the
+            company's transformation into an AI-first company. As an engineering
+            manager, at peak I led 12 people across 5 parallel projects and
+            built an early-careers ecosystem from scratch, that acted as a mini
+            innovation lab and brought in every fourth engineer in the company.
           </p>
           <p>
-            I enjoy badminton (feel free to challenge me!), biking and hiking, and am a 
+            I also do my PhD at the University of Tartu, where I am building
+            AITA, an adaptive multi-step AI teaching assistant for Computer
+            Science courses, and give lectures on SaaS business and marketing
+            in the AI era to business students. I have volunteered for many
+            years as a Codesters.club mentor at Tartu Jaan Poska Gümnaasium,
+            teaching business analysis, design, and programming, and as a
+            teacher at Tartu Annelinna Gümnaasium, where I taught a programming
+            course that I authored.
+          </p>
+          <p>
+            I enjoy yoga, playing the piano and composing my own music, as well as badminton
+            (feel free to challenge me!), biking and hiking, and am a 
             big electric car enthusiast. If you have a great idea you'd like to discuss 
             over a cup of tea - feel free to drop me a message!
           </p>
