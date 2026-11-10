@@ -215,6 +215,10 @@ footer{
         flex-direction: row;
     }
 
+    .art-row > .column {
+        width: 100%;
+    }
+
     .tile {
         margin: 10px 0px;
     }
