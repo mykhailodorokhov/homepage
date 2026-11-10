@@ -21,7 +21,7 @@ function Culture() {
                     <div className="column">
                         <iframe 
                             width="360" height="203"
-                            src="https://www.youtube.com/embed/xOcn6hFVdDo?si=rLkcqaNbNGy3KuLu?controls=0&autoplay=1&modestbranding=1&rel=0" 
+                            src="https://www.youtube-nocookie.com/embed/xOcn6hFVdDo?autoplay=1&mute=1&controls=0&loop=1&playlist=xOcn6hFVdDo&playsinline=1&rel=0" 
                             title="2:00AM bt Tony Skeor"
                             frameBorder="0"
                             allow="autoplay; encrypted-media; web-share; " 
