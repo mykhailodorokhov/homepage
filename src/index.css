@@ -113,6 +113,31 @@ p {
     margin-bottom: 10px;
 }
 
+.series {
+    display: flex;
+    flex-flow: row;
+    gap: 0px 20px;
+}
+
+.series > p {
+    flex: 1;
+}
+
+.art-media {
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+    border: 0;
+    border-radius: 10px;
+}
+
+.content-row.art-row {
+    margin-bottom: 15px;
+}
+
+iframe.art-media {
+    aspect-ratio: 16 / 9;
+}
+
 .content-row {
     width: 100%;
     display: flex;

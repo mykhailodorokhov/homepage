@@ -1,10 +1,4 @@
-function ExternalLink({ href, children }: { href: string; children: React.ReactNode }) {
-    return (
-        <a href={href} target="_blank" rel="noopener noreferrer">
-            {children}
-        </a>
-    );
-}
+import ExternalLink from '../components/ExternalLink';
 
 function CV() {
     return (
@@ -213,7 +207,7 @@ function CV() {
                         <p>
                             In a collaboration with <b>Cybernetica AS</b>, working on a{" "}
                             <ExternalLink href="https://apps.dtic.mil/sti/trecms/pdf/AD1147783.pdf">
-                                <b>DARPA</b>-procured privacy-related project
+                                DARPA-procured privacy-related project
                             </ExternalLink>
                             .<br />
                             Technical stack: <b>Java, JavaScript, AngularJS</b>
