@@ -63,10 +63,10 @@ function Home() {
         <div className="text">
           <h3>👋 Hi</h3>
           <p>
-            I am <b>Mykhailo</b> [mɪxɑjlɔ].
+            I am <b>Mykhailo</b> [mɪxɑjlɔ], but everyone calls me <b>Mike</b>.
           </p>
           <p>
-            I was born in Kharkiv, Ukraine. As a kid, I liked trams, tried
+            I was born in <i>Kharkiv, Ukraine</i>. As a kid, I liked trams, tried
             writing novels and composed music. In 3rd grade, I discovered a
             programming book my father had bought, and that’s when I started
             writing simple apps and games in Visual Basic, which ultimately
@@ -75,40 +75,41 @@ function Home() {
           <p>
             Some time later, life brought me to Estonia, a small Northern
             European country with beautiful forests, lakes, bogs, charming
-            manors, advanced e-state, rich history and traditions. I completed
-            Master's in Software Engineering at the University of Tartu, where I
+            manors, advanced e-state, rich history and traditions. I completed 
+            <b> Master's in Software Engineering</b> at the University of Tartu, where I
             also worked some time as a Teaching Assistant.
           </p>
           <p>
-            These days I would describe myself as an engineering leader with a
-            product mindset who ended up building systems and processes that
-            help product teams: first as an engineer, then as an engineering
-            manager, now with AI agents. I work in between industry and
+            These days I would describe myself as an <i>engineering leader with a
+            product mindset</i> who ended up building systems and processes that
+            help product teams: first as an <b>engineer</b>, then as an <b>engineering
+            manager</b>, now with <b>AI agents</b>. I work in between industry and
             academia, research and production, people and code.
           </p>
           <p>
+            I’m doing a PhD at the University of Tartu, where I’m building AITA, 
+            an adaptive multi-step AI agent for learning. I also give lectures 
+            on SaaS business and marketing in the AI era to business students.
+          </p>
+          <p>
             At Pipedrive, reporting directly to C-level executives, I led the
-            Customer Quality of Life and Agentic PDLC initiatives, part of the
-            company's transformation into an AI-first company. As an engineering
-            manager, at peak I led 12 people across 5 parallel projects and
-            built an early-careers ecosystem from scratch, that acted as a mini
-            innovation lab and brought in every fourth engineer in the company.
+            <i>Customer Quality of Life</i> and <i>Agentic PDLC</i> initiatives, part of the
+            company's transformation into an <i>AI-first</i> company. As an <b>engineering
+            manager</b>, at peak I led 12 people across 5 parallel projects and
+            built an <b>early-careers ecosystem</b> from scratch, that acted as a <i>mini
+            innovation lab</i> and brought in <i>every fourth engineer</i> in the company.
           </p>
           <p>
-            I also do my PhD at the University of Tartu, where I am building
-            AITA, an adaptive multi-step AI teaching assistant for Computer
-            Science courses, and give lectures on SaaS business and marketing
-            in the AI era to business students. I have volunteered for many
-            years as a Codesters.club mentor at Tartu Jaan Poska Gümnaasium,
-            teaching business analysis, design, and programming, and as a
-            teacher at Tartu Annelinna Gümnaasium, where I taught a programming
-            course that I authored.
+            In my free time, I enjoy yoga, biking and badminton, 
+            play the piano and compose my own music (soon releasing at Spotify, stay tuned!).  I have volunteered 
+            for many years as a Codesters.club mentor at Tartu Jaan Poska Gümnaasium, 
+            teaching <i>business analysis, design, and programming</i>, and as a 
+            programming teacher at Tartu Annelinna Gümnaasium - so I can explain 
+            same concept to both a 16-year-old school student and a C-level executive! 🙂
           </p>
           <p>
-            I enjoy yoga, playing the piano and composing my own music, as well as badminton
-            (feel free to challenge me!), biking and hiking, and am a 
-            big electric car enthusiast. If you have a great idea you'd like to discuss 
-            over a cup of tea - feel free to drop me a message!
+            If you have a great idea you'd like to discuss over a cup of tea or coffee - 
+            feel free to drop me a message!
           </p>
         </div>
       </div>
