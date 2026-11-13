@@ -87,12 +87,16 @@ function Home() {
             academia, research and production, people and code.
           </p>
           <p>
-            I’m doing a PhD at the University of Tartu, where I’m building AITA, 
-            an adaptive multi-step AI agent for learning. I also give lectures 
-            on SaaS business and marketing in the AI era to business students.
+            I’m doing a <b>PhD in Computer Science</b> at the University of Tartu, where 
+            I’m building AITA, an <i>adaptive multi-step AI agent</i> for learning 
+            Computer Science courses. AITA turns a course into a knowledge graph, finds 
+            the edge of each learner's understanding, and guides them through new material 
+            using validated instructional strategies, adapting to their mastery, pace and 
+            preferences. I also give lectures on SaaS business and marketing in the AI era 
+            to business and economics students.
           </p>
           <p>
-            At Pipedrive, reporting directly to C-level executives, I led the
+            At <b>Pipedrive</b>, reporting directly to C-level executives, I led the{" "}
             <i>Customer Quality of Life</i> and <i>Agentic PDLC</i> initiatives, part of the
             company's transformation into an <i>AI-first</i> company. As an <b>engineering
             manager</b>, at peak I led 12 people across 5 parallel projects and
