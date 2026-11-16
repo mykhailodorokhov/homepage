@@ -21,7 +21,7 @@ function Home() {
         <div className="tile">
           <h3>👨🏻‍💻 Work</h3>
           <p>
-            Senior Engineering L&D Lead
+            Senior Engineering Lead
             <br />
             <i>(Early Careers Engineering Manager;</i>
             <br />

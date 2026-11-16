@@ -110,7 +110,7 @@ function CV() {
                 <div className="content-row">
                     <div className="column">
                         <p>
-                            Senior Engineering L&D Lead<br />
+                            Senior Engineering Lead<br />
                             (R&D Ops, AI enablement)<br />
                             <b>Pipedrive</b>, 2024 - 2026
                         </p>
@@ -135,7 +135,7 @@ function CV() {
                 <div className="content-row">
                     <div className="column">
                         <p>
-                            Engineering L&D Lead<br />
+                            Engineering Lead<br />
                             (Engineering Manager)<br />
                             <b>Pipedrive</b>, 2022 - 2023
                         </p>
