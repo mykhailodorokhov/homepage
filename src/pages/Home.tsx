@@ -25,7 +25,7 @@ function Home() {
             <br />
             <i>(Early Careers Engineering Manager;</i>
             <br />
-            <i>AI enablement)</i>
+            <i>R&D Ops, AI enablement)</i>
             <br />
             <b>Pipedrive</b>
           </p>
