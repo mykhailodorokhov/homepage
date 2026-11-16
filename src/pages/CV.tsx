@@ -112,7 +112,7 @@ function CV() {
                         <p>
                             Senior Engineering Lead<br />
                             (R&D Ops, AI enablement)<br />
-                            <b>Pipedrive</b>, 2024 - 2026
+                            <b>Pipedrive</b>, 2025 - 2026
                         </p>
                     </div>
                     <div className="column">
@@ -137,12 +137,12 @@ function CV() {
                         <p>
                             Engineering Lead<br />
                             (Engineering Manager)<br />
-                            <b>Pipedrive</b>, 2022 - 2023
+                            <b>Pipedrive</b>, 2022 - 2024
                         </p>
                     </div>
                     <div className="column">
                         <p>
-                            <b>2022-2025:</b> I have built Pipedrive's <b>engineering early-careers</b> from scratch,
+                            <b>2022-2024:</b> I have built Pipedrive's <b>engineering early-careers</b> from scratch,
                             acting as an <i>Early Careers Engineering Manager</i> of a <b>mini innovation lab</b> (at
                             peak, managed 12 people across 5 parallel projects). Over 4 years,{" "}
                             <ExternalLink href="https://medium.com/pipedrive-engineering/pipedrives-school-of-code-from-bits-and-bytes-to-algorithm-avenue-a191d0912cc4">
@@ -182,7 +182,7 @@ function CV() {
                         <p>
                             Teaching Assistant<br />
                             <b>University of Tartu</b><br />
-                            2016 - 2019
+                            2017 - 2019
                         </p>
                     </div>
                     <div className="column">
